@@ -4,16 +4,7 @@ I’m a **Quantitative Researhcer and Economist** with a passion for **high-perf
 
 My goal is to leverage my expertise in time-series econometrics, numerical methods, algorithm optimization, and data analysis—grounded in deep domain knowledge of economics, macroeconomics, finance and real estate markets—to drive impactful projects that require robust, high-performance solutions. I enjoy collaborating with cross-functional teams and leveraging open-source technologies to develop scalable, data-driven solutions that drive business impact, enhance decision-making, and optimize complex systems.
 
-🔗 **Visit my website to check out my academic research and open-source projects:** [daveleather.com](https://www.daveleather.com)
-
----
-
-## 🔎 What I Bring to the Table
-- **High-Performance Computing (HPC):** Experience building and optimizing applications for large-scale computational environments.
-- **Data Analytics & Scientific Computing:** Skilled in data wrangling, statistical modeling, and visualization across varied research domains.
-- **Algorithm Optimization:** Proficient in performance profiling, refactoring, and parallel computing to reduce execution time.
-- **Cross-Language Collaboration:** Comfortable working with diverse languages (Julia, Python, C++, MATLAB) and workflows.
-- **Open-Source Contributions:** Passionate about sharing knowledge and best practices through GitHub and community forums.
+🔗 **Visit my website to check out my academic research and open-source projects:** [daveleather.com](https://www.daveleather.com).
 
 ---
 
@@ -25,6 +16,15 @@ My goal is to leverage my expertise in time-series econometrics, numerical metho
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dleather&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dleather&theme=dracula&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
+
+---
+
+## 🔎 What I Bring to the Table
+- **High-Performance Computing (HPC):** Experience building and optimizing applications for large-scale computational environments.
+- **Data Analytics & Scientific Computing:** Skilled in data wrangling, statistical modeling, and visualization across varied research domains.
+- **Algorithm Optimization:** Proficient in performance profiling, refactoring, and parallel computing to reduce execution time.
+- **Cross-Language Collaboration:** Comfortable working with diverse languages (Julia, Python, C++, MATLAB) and workflows.
+- **Open-Source Contributions:** Passionate about sharing knowledge and best practices through GitHub and community forums.
 
 ---
 
