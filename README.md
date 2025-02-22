@@ -36,3 +36,5 @@ My goal is to leverage my expertise in time-series econometrics, numerical metho
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dleather)
 
 I look forward to connecting with you and discussing how we can work together to build something impactful!
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
