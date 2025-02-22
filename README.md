@@ -5,6 +5,7 @@ I’m a **Quantitative Researhcer and Economist** with a passion for **high-perf
 My goal is to leverage my expertise in time-series econometrics, numerical methods, algorithm optimization, and data analysis—grounded in deep domain knowledge of economics, macroeconomics, finance and real estate markets—to drive impactful projects that require robust, high-performance solutions. I enjoy collaborating with cross-functional teams and leveraging open-source technologies to develop scalable, data-driven solutions that drive business impact, enhance decision-making, and optimize complex systems.
 
 🔗 **Visit my website to check out my academic research and open-source projects:** [daveleather.com](https://www.daveleather.com)
+
 ---
 
 ## 🔎 What I Bring to the Table
