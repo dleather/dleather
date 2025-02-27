@@ -1,6 +1,6 @@
 # Hello, I’m David Leather 👋
 
-I’m a **Quantitative Researhcer and Economist** with a passion for **high-performance computing**, **scientific research**, and **data-driven solutions**. Over the past ten years, I’ve honed my skills in **Julia, Python, MATLAB, and C++ (begginner)**—developing efficient, scalable code that tackles complex computational challenges.
+I’m a **Quantitative Researcher and Economist** with a passion for **high-performance computing**, **scientific research**, and **data-driven solutions**. Over the past ten years, I’ve honed my skills in **Julia, Python, MATLAB, and C++ (learning)**—developing efficient, scalable code that tackles complex computational challenges.
 
 My goal is to leverage my expertise in time-series econometrics, numerical methods, algorithm optimization, and data analysis—grounded in deep domain knowledge of economics, macroeconomics, finance and real estate markets—to drive impactful projects that require robust, high-performance solutions. I enjoy collaborating with cross-functional teams and leveraging open-source technologies to develop scalable, data-driven solutions that drive business impact, enhance decision-making, and optimize complex systems.
 
